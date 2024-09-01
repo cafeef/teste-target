@@ -1,0 +1,1 @@
+Aqui está a resolução das questões técnicas para o teste de Estágio da Target. Utilizei a linguagem que mais me familiarizo, o Python. Porém também tenho conhecimento em C e base em C#. Recorri a métodos tradicionais e fui original em minha resolução de problemas.
